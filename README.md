@@ -1,8 +1,8 @@
 # Create_Caffe_Dataset
 Code for creating dataset in LMDB format
 
-(1) Tutorial.pdf
-Tutorial for building your own dataset in LMDB format, which can be used in Caffe.
+(1) Tutorial.pdf 
+# Tutorial for building your own dataset in LMDB format, which can be used in Caffe.
 
 (2) CrewDetect.py
 Code for labeling sample pictures, outputting label files in TXT format. 
