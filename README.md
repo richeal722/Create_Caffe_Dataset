@@ -1,5 +1,5 @@
 # Create_Caffe_Dataset
-Code for creating dataset in LMDB format
+Files description
 
 (1) Tutorial.pdf  
 Tutorial for building your own dataset in LMDB format, which can be used in Caffe.  
